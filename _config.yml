@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+
+include:
+  - privacy.md
+  - tos.md
+  - terms.md
