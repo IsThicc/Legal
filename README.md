@@ -13,4 +13,4 @@ Official Sites:
 - [API](https://api.isthicc.xyz/)
 - [Discord](https://discord.isthicc.xyz/)
 
-<p align="center">Copyright (c) 2021 Isthicc</p>
+<p align="center">Copyright (c) 2021-2022 Isthicc</p>
